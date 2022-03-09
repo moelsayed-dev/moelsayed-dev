@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Mohamed Elsayed
 - 👀 I’m interested in backend web development
-- 🌱 I’m currently learning Vue and Tailwind CSS
-- 💞️ I’m currently looking for an entry position as a backend developer. 
+- 🌱 I’m currently learning Nodejs and Express
 - 📫 https://www.linkedin.com/in/mohamed-elsayed-152540129/
